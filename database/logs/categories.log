@@ -1,0 +1,4 @@
+[2021-03-04T22:13:51.266382+01:00] Category.INFO: updated {"Category":{"name":"Thrillers","code":"100-003"}} []
+[2021-03-04T22:13:54.712685+01:00] Category.INFO: updated {"Category":{"name":"Thriller","code":"100-003"}} []
+[2021-03-04T22:15:11.557313+01:00] Category.INFO: added {"Category":{"name":"teste","code":"3250"}} []
+[2021-03-04T22:15:17.594134+01:00] Category.INFO: updated {"Category":{"name":"teste","code":"3250"}} []
