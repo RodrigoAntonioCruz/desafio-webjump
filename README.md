@@ -38,7 +38,7 @@ O desafio é desenvolver um sistema de gerenciamento de produtos. Esse sistema s
 Se preferir, você testar `aplicação em execução` no endereço :
 <a href="http://webjump.rodrigodacruz.com.br:8080" target="_blank" >`DESAFIO WEBJUMP!`</a>
 
-<hr>
+
 
 ### Captura da tela inicial
 
@@ -46,5 +46,5 @@ Se preferir, você testar `aplicação em execução` no endereço :
   <img align="center" alt="" src="http://webjump.rodrigodacruz.com.br:8080/webjump.png" />
 </p>
 
-<hr>
+
 
