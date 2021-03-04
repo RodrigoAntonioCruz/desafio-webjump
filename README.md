@@ -24,13 +24,13 @@ O desafio é desenvolver um sistema de gerenciamento de produtos. Esse sistema s
 
 ### Executando o projeto
 
-1. Clone ou baixe o projeto do repositório para o seu `Computador`.
+`1.` Clone ou baixe o projeto do repositório para o seu `Computador`.
 
-2. Navegue até a raíz do seu diretório onde salvou ou clonou o projeto, abra o `terminal e execute ` o comando `$ composer install` para instalar as dependências, 
+`2.` Navegue até a raíz do seu diretório onde salvou ou clonou o projeto, abra o `terminal e execute ` o comando `$ composer install` para instalar as dependências. 
 
-3. Ainda no `terminal, execute ` o comando `$ php -S localhost:8080 -t public` para rodar o servidor.
+`3.` Ainda no `terminal, execute ` o comando `$ php -S localhost:8080 -t public` para rodar o servidor.
 
-3. Abra seu browser e navegue até `http://localhost:8080` que a aplicação estará disponível.
+`4.` Abra seu browser e navegue até `http://localhost:8080` que a aplicação estará disponível.
 
 
 ### Aplicação em execução
