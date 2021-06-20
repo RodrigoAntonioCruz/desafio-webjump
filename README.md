@@ -41,17 +41,10 @@ Desenvolver um sistema de gerenciamento de produtos. Esse sistema será composto
 `4.` Abra seu browser e navegue até `http://localhost:8080` que a aplicação estará disponível.
 
 
-### Aplicação em execução
-
-Se preferir, você testar `aplicação em execução` no endereço :
-<a href="http://webjump.rodrigodacruz.com.br:8080" target="_blank" >`DESAFIO WEBJUMP!`</a>
-
-
-
 ### Captura da tela inicial
 
 <p align="center">
-  <img align="center" alt="" src="http://webjump.rodrigodacruz.com.br:8080/webjump.png" />
+  <img align="center" alt="" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/webjump.png" />
 </p>
 
 
