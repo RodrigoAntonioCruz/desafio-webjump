@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Logo WebJump" src="https://webjump.com.br/wp-content/uploads/2019/03/logo-webjump-footer.png" />
+  <img align="center" alt="Logo WebJump" src="https://webjump.com.br/wp-content/uploads/2021/12/webjump-compass-min-2.png" />
 </p>
 
 <h2 align="center">
